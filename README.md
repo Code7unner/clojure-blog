@@ -1,6 +1,6 @@
 # cljblog
 
-FIXME
+Simple blog written on Clojure
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Maxim Cherbadzhi
